@@ -1,0 +1,13 @@
+.intro {
+    background:
+      linear-gradient(
+        to right, 
+        #1A1818, 
+        #1A1818, 
+        #1A1818,
+        #1A1818,
+        rgba(0, 0, 0, 0.0),
+       rgba(0, 0, 0, 0.0)
+      ),
+      url('./assets/spice.jpg') no-repeat right;
+  }
